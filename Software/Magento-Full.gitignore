@@ -1,22 +1,4 @@
-# OS generated files
-####################
-.DS_Store*
-ehthumbs.db
-Icon?
-Thumbs.db
-
-
-# IDE files
-###########
-.idea/
-
-
-# Dev and temp files
-####################
-
-
-# System files
-##############
+# Magento
 .htaccess.sample
 api.php
 app/code/community/Phoenix/
@@ -97,7 +79,3 @@ skin/frontend/default/modern/
 skin/install/
 var/
 pear
-
-
-# Other files
-#############
