@@ -1,0 +1,25 @@
+# OS generated files
+####################
+
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+.Spotlight-V100
+.Trashes
+
+
+# IDE files
+###########
+
+# PhpStorm
+.idea/
+
+
+# Dev and temp files
+####################
+
+
+# Other files
+#############
