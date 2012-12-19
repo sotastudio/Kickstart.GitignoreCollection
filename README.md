@@ -2,7 +2,7 @@
 
 A piece of best practice all around the world.
 
-Just mix your .gitignore in particular:
+Just mix up your .gitignore composed of the following components:
 
 * OS
 * IDE
