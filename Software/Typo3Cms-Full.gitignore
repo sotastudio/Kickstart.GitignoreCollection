@@ -1,0 +1,31 @@
+# TYPO3 Main
+clear.gif
+fileadmin/_temp_/
+fileadmin/user_upload/
+index.php
+t3lib/
+typo3/
+typo3_src/
+typo3_src*
+typo3conf/deprecation*
+typo3conf/ENABLE_INSTALL_TOOL
+typo3conf/index.html
+typo3conf/l10n/
+typo3conf/settings/
+typo3conf/temp_CACHED_*
+typo3temp/
+uploads/
+
+# TYPO3 Misc
+_.htaccess
+ChangeLog
+GPL.txt
+INSTALL.txt
+LICENSE.txt
+NEWS.txt
+README.txt
+RELEASE_NOTES.txt
+
+# Own TYPO3 stuff
+bak/
+scripts/
