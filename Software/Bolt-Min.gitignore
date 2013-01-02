@@ -1,0 +1,16 @@
+/app/cache/
+/app/classes/
+/app/src/
+/app/tests/
+/app/theme_defaults/
+/app/view/
+/app/app*.php
+/app/bootstrap.php
+/app/LICENSE.txt
+/app/nut
+/app/phpunit.xml.dist
+/app/timthumb.php
+/files/.htaccess
+/files/index.html
+/vendor/
+/index.php
